@@ -1,0 +1,27 @@
+{
+  "type":"mekanismagriculture:forcing",
+  "mainInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:poppy"
+    }
+  },
+  "extraInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:dirt"
+    }
+  },
+  "fluidInput":
+  {
+    "amount":100,
+    "tag":"minecraft:water"
+  },
+  "mainOutput":
+  {
+    "count": 3,
+    "item":"minecraft:poppy"
+  }
+}

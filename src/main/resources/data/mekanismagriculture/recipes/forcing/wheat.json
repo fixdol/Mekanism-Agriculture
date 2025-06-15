@@ -1,0 +1,32 @@
+{
+  "type":"mekanismagriculture:forcing",
+  "mainInput":
+  {
+    "ingredient":
+    {
+      "tag":"forge:seeds/wheat"
+    }
+  },
+  "extraInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:dirt"
+    }
+  },
+  "fluidInput":
+  {
+    "amount":100,
+    "tag":"minecraft:water"
+  },
+  "mainOutput":
+  {
+    "count": 4,
+    "item":"minecraft:wheat"
+  },
+  "secondaryOutput":
+  {
+    "count": 2,
+    "item":"minecraft:wheat_seeds"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type":"mekanismagriculture:forcing",
+  "mainInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:cocoa_beans"
+    }
+  },
+  "extraInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:jungle_log"
+    }
+  },
+  "fluidInput":
+  {
+    "amount":100,
+    "tag":"minecraft:water"
+  },
+  "mainOutput":
+  {
+    "count": 3,
+    "item":"minecraft:cocoa_beans"
+  }
+}

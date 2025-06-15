@@ -1,0 +1,27 @@
+{
+  "type":"mekanismagriculture:forcing",
+  "mainInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:warped_roots"
+    }
+  },
+  "extraInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:warped_nylium"
+    }
+  },
+  "fluidInput":
+  {
+    "amount":100,
+    "tag":"minecraft:water"
+  },
+  "mainOutput":
+  {
+    "count": 3,
+    "item":"minecraft:warped_roots"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "block.mekanismagriculture.electric_fisher": "電気式漁業機 (WIP)",
+  "block.mekanismagriculture.high_speed_forcing_machine": "高速促成栽培機",
+  "constants.mekanismagriculture.mod_name": "Mekanism: Agriculture",
+  "container.mekanismagriculture.electric_fisher": "電気式漁業機 (WIP)",
+  "container.mekanismagriculture.high_speed_forcing_machine": "高速促成栽培機",
+  "description.mekanismagriculture.high_speed_forcing_machine": "栄養となる液体とエネルギーを使用し、高速で植物を成長させる機械です。"
+}

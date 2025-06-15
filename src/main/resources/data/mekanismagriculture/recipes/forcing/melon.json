@@ -1,0 +1,26 @@
+{
+  "type":"mekanismagriculture:forcing",
+  "mainInput":
+  {
+    "ingredient":
+    {
+      "tag":"forge:seeds/melon"
+    }
+  },
+  "extraInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:dirt"
+    }
+  },
+  "fluidInput":
+  {
+    "amount":100,
+    "tag":"minecraft:water"
+  },
+  "mainOutput":
+  {
+    "item":"minecraft:melon"
+  }
+}

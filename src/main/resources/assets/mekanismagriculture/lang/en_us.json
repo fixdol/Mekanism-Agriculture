@@ -1,0 +1,8 @@
+{
+  "block.mekanismagriculture.electric_fisher": "Electric Fisher (WIP)",
+  "block.mekanismagriculture.high_speed_forcing_machine": "High Speed Forcing Machine",
+  "constants.mekanismagriculture.mod_name": "Mekanism: Agriculture",
+  "container.mekanismagriculture.electric_fisher": "Electric Fisher (WIP)",
+  "container.mekanismagriculture.high_speed_forcing_machine": "High Speed Forcing Machine",
+  "description.mekanismagriculture.high_speed_forcing_machine": "This machine uses nutritious liquids and energy to grow plants at high speed."
+}

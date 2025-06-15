@@ -1,0 +1,32 @@
+{
+  "type":"mekanismagriculture:forcing",
+  "mainInput":
+  {
+    "ingredient":
+    {
+      "tag":"forge:seeds/beetroot"
+    }
+  },
+  "extraInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:dirt"
+    }
+  },
+  "fluidInput":
+  {
+    "amount":100,
+    "tag":"minecraft:water"
+  },
+  "mainOutput":
+  {
+    "count": 4,
+    "item":"minecraft:beetroot"
+  },
+  "secondaryOutput":
+  {
+    "count": 2,
+    "item":"minecraft:beetroot_seeds"
+  }
+}

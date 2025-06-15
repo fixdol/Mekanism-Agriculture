@@ -1,0 +1,31 @@
+{
+  "type":"mekanismagriculture:forcing",
+  "mainInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:grass"
+    }
+  },
+  "extraInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:dirt"
+    }
+  },
+  "fluidInput":
+  {
+    "amount":100,
+    "tag":"minecraft:water"
+  },
+  "mainOutput":
+  {
+    "count": 4,
+    "item":"minecraft:grass"
+  },"secondaryOutput":
+  {
+  "count": 1,
+  "item":"minecraft:tall_grass"
+  }
+}

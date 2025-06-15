@@ -1,0 +1,32 @@
+{
+  "type":"mekanismagriculture:forcing",
+  "mainInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:chorus_flower"
+    }
+  },
+  "extraInput":
+  {
+    "ingredient":
+    {
+      "item":"minecraft:end_stone"
+    }
+  },
+  "fluidInput":
+  {
+    "amount":100,
+    "tag":"minecraft:water"
+  },
+  "mainOutput":
+  {
+    "count": 3,
+    "item":"minecraft:chorus_fruit"
+  },
+  "secondaryOutput":
+  {
+    "count": 1,
+    "item":"minecraft:chorus_flower"
+  }
+}
